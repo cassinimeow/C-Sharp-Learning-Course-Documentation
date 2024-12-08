@@ -1,0 +1,14 @@
+C:\Users\ELIZANDER\Documents\TestCSharp\bin\Debug\net9.0\TestCSharp.exe
+C:\Users\ELIZANDER\Documents\TestCSharp\bin\Debug\net9.0\TestCSharp.deps.json
+C:\Users\ELIZANDER\Documents\TestCSharp\bin\Debug\net9.0\TestCSharp.runtimeconfig.json
+C:\Users\ELIZANDER\Documents\TestCSharp\bin\Debug\net9.0\TestCSharp.dll
+C:\Users\ELIZANDER\Documents\TestCSharp\bin\Debug\net9.0\TestCSharp.pdb
+C:\Users\ELIZANDER\Documents\TestCSharp\obj\Debug\net9.0\TestCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELIZANDER\Documents\TestCSharp\obj\Debug\net9.0\TestCSharp.AssemblyInfoInputs.cache
+C:\Users\ELIZANDER\Documents\TestCSharp\obj\Debug\net9.0\TestCSharp.AssemblyInfo.cs
+C:\Users\ELIZANDER\Documents\TestCSharp\obj\Debug\net9.0\TestCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ELIZANDER\Documents\TestCSharp\obj\Debug\net9.0\TestCSharp.dll
+C:\Users\ELIZANDER\Documents\TestCSharp\obj\Debug\net9.0\refint\TestCSharp.dll
+C:\Users\ELIZANDER\Documents\TestCSharp\obj\Debug\net9.0\TestCSharp.pdb
+C:\Users\ELIZANDER\Documents\TestCSharp\obj\Debug\net9.0\TestCSharp.genruntimeconfig.cache
+C:\Users\ELIZANDER\Documents\TestCSharp\obj\Debug\net9.0\ref\TestCSharp.dll
