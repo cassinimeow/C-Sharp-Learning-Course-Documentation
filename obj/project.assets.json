@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ELIZANDER\\documents\\TestCSharp\\TestCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\ELIZANDER\\Documents\\github-repositories\\C-Sharp-Learning-Course-Documentation\\TestCSharp.csproj",
       "projectName": "TestCSharp",
-      "projectPath": "C:\\Users\\ELIZANDER\\documents\\TestCSharp\\TestCSharp.csproj",
+      "projectPath": "C:\\Users\\ELIZANDER\\Documents\\github-repositories\\C-Sharp-Learning-Course-Documentation\\TestCSharp.csproj",
       "packagesPath": "C:\\Users\\ELIZANDER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ELIZANDER\\documents\\TestCSharp\\obj\\",
+      "outputPath": "C:\\Users\\ELIZANDER\\Documents\\github-repositories\\C-Sharp-Learning-Course-Documentation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ELIZANDER\\AppData\\Roaming\\NuGet\\NuGet.Config"
